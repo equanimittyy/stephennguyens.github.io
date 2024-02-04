@@ -4,14 +4,15 @@
 **This page serves as a summary of the personal experiences I've had to date, outside of professional work experience.**
 
 ---
-### Personal Projects
+## Personal Projects
+### Australian Weather Analytics
+This is a personal project aimed to improve my familiarity with PowerBI, and visualisation tools. A dataset was drawn from Kaggle, and imported into PowerBI for visualisation. Goals were created in order to obtain different statistical measures that might prove interesting, and to challenge my ability to build dashboards. The project can be found [here](https://github.com/equanimittyy/weatherau).
 
-
-### Kaggle Competitions
+## Kaggle Competitions
 - 
 
-### Kaggle Kernels
+## Kaggle Kernels
 - 
 
-### StrataScratch
+## StrataScratch
 - 

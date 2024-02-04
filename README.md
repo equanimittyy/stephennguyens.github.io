@@ -6,7 +6,7 @@
 ---
 ## Personal Projects
 ### Australian Weather Analytics
-This is a personal project aimed to improve my familiarity with visualisation tools, more specifically PowerBI. A dataset was drawn from Kaggle, and imported into PowerBI for visualisation. Goals were created in order to obtain different statistical measures that might prove interesting, and to challenge my ability to build dashboards. The project can be found [here](https://github.com/equanimittyy/weatherau) along with notes detailing the analysis, limitations and reflections.
+This is a personal project aimed to improve my familiarity with visualisation tools, more specifically PowerBI. A dataset was drawn from Kaggle and imported into PowerBI for visualisation. Goals were created in order to obtain different statistical measures that might prove interesting, and to challenge my ability to build dashboards. The project can be found [here](https://github.com/equanimittyy/weatherau) along with notes detailing the analysis, limitations and reflections.
 
 ## Kaggle Competitions
 - 

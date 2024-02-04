@@ -4,11 +4,13 @@
 **This page serves as a summary of the personal experiences I've had to date, outside of professional work experience.**
 
 ---
+### Personal Projects
 
-### **Kaggle Competitions**
+
+### Kaggle Competitions
 - 
 
-### **Kaggle Kernels**
+### Kaggle Kernels
 - 
 
 ### StrataScratch

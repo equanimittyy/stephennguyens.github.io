@@ -10,7 +10,7 @@
 
 This is a personal project aimed to improve my familiarity with visualisation tools, more specifically PowerBI. A dataset was drawn from Kaggle and imported into PowerBI for visualisation. Goals were created in order to obtain different statistical measures that might prove interesting, and to challenge my ability to build dashboards. The project can be found [here](https://github.com/equanimittyy/weatherau) along with notes detailing the analysis, limitations and reflections.
 
-### Titanic ML Competition (Kaggle) (In Progress)
-[GitHub] [Kaggle]
+### Titanic ML Competition (Kaggle)
+[Kaggle](https://www.kaggle.com/code/stephennguyens/titanic-ml-competition-sn)
 
-The famous (or infamous depending on how you look at it) Titanic ML project. I intended to use the project as a means of introducing myself to Kaggle and the Python language. I understand that as far as projects go, this is not the most complex or comprehensive. To take the project further and develop on my other skills, I conducted the same exercise of predicting the Titanic casualties through PowerBI in addition to the Notebook found on Kaggle.
+The famous (or infamous depending on how you look at it) Titanic ML project. I intended to use the project as a means of introducing myself to Kaggle and the Python language. Upon completion of the pubicly available tutorial and the project, it was clear that the experience served as more of an introduction to the use of Kaggle. Little to no Python knowledge was required to complete the project. From here, I identified that, in order to progress my Python knowledge, it would be wise to undertake Kaggle competitions with the help of other resources such as books and research papers to identify different ML statistical techniques that may be applied.

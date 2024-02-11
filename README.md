@@ -8,7 +8,12 @@
 ### Australian Weather Analytics
 [GitHub](https://github.com/equanimittyy/weatherau)
 
-This is a personal project aimed to improve my familiarity with visualisation tools, more specifically PowerBI. A dataset was drawn from Kaggle and imported into PowerBI for visualisation. Goals were created in order to obtain different statistical measures that might prove interesting, and to challenge my ability to build dashboards. The project can be found [here](https://github.com/equanimittyy/weatherau) along with notes detailing the analysis, limitations and reflections.
+This was a personal project aimed to improve my familiarity with visualisation tools, more specifically PowerBI. A dataset was drawn from Kaggle and imported into PowerBI for visualisation. Goals were created in order to obtain different statistical measures that might prove interesting, and to challenge my ability to build dashboards. The project can be found [here](https://github.com/equanimittyy/weatherau) along with notes detailing the analysis, limitations and reflections.
+
+### Moby Dick (In Progress)
+[GitHub]
+
+This was a project aimed to improve my Python skills and commit to an end-to-end project that involved the collection of data, data quality assessment and correction, analysis, and visualisation. I used Python and BeautifulSoup to write scripts that firstly exported a website in HTML to local (to prevent repeated requests to a live website) and then used Python to extract data. This data was analysed to provide specific information such as Title, Author etc.
 
 ### Titanic ML Competition (Kaggle)
 [Kaggle](https://www.kaggle.com/code/stephennguyens/titanic-ml-competition-sn)

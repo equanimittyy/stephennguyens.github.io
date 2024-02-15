@@ -13,7 +13,7 @@ This was a personal project aimed to improve my familiarity with visualisation t
 ### Moby Dick (In Progress)
 [GitHub](https://github.com/equanimittyy/mobydick)
 
-This was a project aimed to improve my Python skills and commit to an end-to-end project that involved the collection of data, data quality assessment and correction, analysis, and visualisation. I used Python and BeautifulSoup to write scripts that firstly exported a website in HTML to local (to prevent repeated requests to a live website) and then used Python to extract data. This data was analysed to provide specific information such as Title, Author etc.
+This was a project aimed to improve my Python skills and commit to an end-to-end project that involved the collection of data, data quality assessment and correction, analysis, and visualisation. I used Python and BeautifulSoup to write scripts that firstly exported a website in HTML to local (to prevent repeated requests to a live website) and then used Python to extract data. This data was analysed to provide a breakdown of what the most frequent words used per chapter were etc.
 
 ### Titanic ML Competition (Kaggle)
 [Kaggle](https://www.kaggle.com/code/stephennguyens/titanic-ml-competition-sn)

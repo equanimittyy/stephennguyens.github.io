@@ -8,7 +8,8 @@
 ### Moby Dick
 [GitHub](https://github.com/equanimittyy/mobydick)
 
-This was a project aimed to improve my Python skills and commit to an ETL/ELT project that involved the collection of data, data quality assessment and cleaning and loading into visualisation. I used Python and BeautifulSoup to write scripts that firstly exported a website in HTML to local (to prevent repeated requests to a live website) and then used Python to extract data into a usable format. This data was processed and loaded to provide a breakdown of what the most frequent words used per chapter were etc.
+This was an exercise aimed to improve my Python skills and commit to an ETL/ELT project that involved the collection of data, data cleaning and a bit of visualisations.
+I used Python and the BeautifulSoup library to scrape an online website, then used Python to transform data into a usable format. Data was processed and loaded into PowerBI to provide a breakdown of what the most frequent words used per chapter were etc.
 
 ### Australian Weather Analytics
 [GitHub](https://github.com/equanimittyy/weatherau)

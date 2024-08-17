@@ -5,7 +5,7 @@
 
 ---
 ## List of Personal Projects
-### Moby Dick
+### Moby Dick https://img.shields.io/badge/Python-purple
 [GitHub](https://github.com/equanimittyy/mobydick)
 
 This was an exercise aimed to improve my Python skills and commit to an ETL/ELT project that involved the collection of data, data cleaning and a bit of visualisations.

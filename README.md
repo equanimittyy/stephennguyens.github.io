@@ -4,7 +4,7 @@
 **This page serves as a list of the personal experiences I've had to date, outside of professional work experience.**
 
 ---
-## Personal Projects
+## List of Personal Projects
 ### Moby Dick
 [GitHub](https://github.com/equanimittyy/mobydick)
 

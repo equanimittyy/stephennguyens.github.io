@@ -1,5 +1,5 @@
 # stephennguyens.github.io
-![image](https://github.com/equanimittyy/stephennguyens.github.io/assets/104692345/6b1d74b1-878c-420f-bc26-8cf36b8d4e67)
+![Static Badge](https://img.shields.io/badge/Python-purple) ![Static Badge](https://img.shields.io/badge/SQL-orange) ![Static Badge](https://img.shields.io/badge/PowerBI-blue)
 
 **This page serves as a list of the personal experiences I've had to date, outside of professional work experience.**
 

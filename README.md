@@ -1,11 +1,10 @@
 # stephennguyens.github.io
-![Static Badge](https://img.shields.io/badge/Python-purple) ![Static Badge](https://img.shields.io/badge/SQL-orange) ![Static Badge](https://img.shields.io/badge/PowerBI-blue)
 
 **This page serves as a list of the personal experiences I've had to date, outside of professional work experience.**
 
 ---
 ## List of Personal Projects
-### Moby Dick  ![Static Badge](https://img.shields.io/badge/Python-purple) ![Static Badge](https://img.shields.io/badge/PowerBI-blue)
+### Moby Dick  ![Static Badge](https://img.shields.io/badge/Python-purple) ![Static Badge](https://img.shields.io/badge/SQL-orange) ![Static Badge](https://img.shields.io/badge/PowerBI-blue)
 
 [GitHub](https://github.com/equanimittyy/mobydick)
 
